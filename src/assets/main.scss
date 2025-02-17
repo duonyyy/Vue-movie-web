@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Odibee+Sans&display=swap');
+
+@layer base {
+  body {
+    @apply bg-slate-900 font-body px-5;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+
+  body.dark {
+    --bg-color: rgb(15, 23, 42);
+    --text-color: #ffffff;
+  }
+  body.light {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+  }
+  .dark .page-container {
+    --text-color: #000000;
+  }
+}
+
+@layer components {
+  .page-container {
+    max-width: 1280px;
+    @apply mx-auto;
+  }
+  .movie-list .swiper-slide {
+    max-width: 300px;
+    height: auto;
+  }
+  .banner .swiper {
+    height: 100%;
+  }
+}//
