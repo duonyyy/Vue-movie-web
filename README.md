@@ -34,10 +34,8 @@ npm run build
 npm run lint
 ```
 
- ## 🎬 Previews : ##
- </br>
-![Screenshot 1](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202806.png)
-![Screenshot 2](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202912.png)
-![Screenshot 3](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202930.png)
-![Screenshot 4](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20203120.png)
-![Screenshot 5](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20203137.png)
+## 🎬 Previews :
+
+</br>
+
+</br> ![Screenshot 1](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202806.png) ![Screenshot 2](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202912.png) ![Screenshot 3](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20202930.png) ![Screenshot 4](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20203120.png) ![Screenshot 5](https://raw.githubusercontent.com/duonyyy/Vue-movie-web/3a4e271d079b3c937e09200d17a1984efdce46cb/asset/Screenshot%202025-04-02%20203137.png) ```
